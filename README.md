@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nk478212
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Nitin yadav
+- 👀 I’m interested in exploring lattest technologies
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on concept on stastisticals
+- 📫 How to reach me nk478212@gmail.com
 
 <!---
 Nk478212/Nk478212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
